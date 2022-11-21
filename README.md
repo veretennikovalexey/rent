@@ -49,3 +49,10 @@
 Финансовая аренда - балансовый учёт
 
 Экономические риски переходят к арендатору
+
+# Лизинг
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
