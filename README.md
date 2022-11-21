@@ -52,7 +52,21 @@
 
 # Лизинг
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Для лизингополучателя, учитывающего предмет лизинга на своём балансе
+
+| Дебет  | Кредит | Оценка | Факт хозяйственной жизни |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| ------------- | ------------- | ------------- | ------------- |
+| 84            | 76 субсчёт Авансы    | Балансовая стоимость | Авансовые платежи по договору лизинга  |
+|               | выданные в счёт      | авансовых платежей   | включены в справедливую стоимость  |
+|               | лизинговых платежей  | по договору лизинга  | права пользования активом  |
+|               |                      |                      | без вляния на её величину |
+
